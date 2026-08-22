@@ -1,31 +1,34 @@
-title: 
-# JJK.py: a random jujutsu kaisen high school students data generator. inspired by Jujutsu Kaisen anime and manga series originally made by Gege Akutami.
+# Jujutsu Randomizer: forge your own sorcerer.
 
-description:
-## I created this project just for my own need to train the data analysis skills using random data because I had no real interest in training pandas and matplotlib modules usage on a plain boring csv/json files I found online. I figured that if I would associate my training with my favourite manga series, I would achieve some better results and generally have more fun of the process. The need of use for this app is no longer there, as I lost interest in training my usage of the modules I mentioned, but the app is fully finished now, so I want to publish it here anyway. I still have fun using this sometimes tho
-## the app contains all of the cursed techniques from the series, all of the weapons (and some more I added by myself) and presumably all the second names of the manga characters.
+# quick intro:
+this application is random .json data generator based on Jujutsu Kaisen manga series made by Gege Akutami. This small project was created as a fun way to experiment with data generation for me to train my data analysis skills. As for now, this application remains unused, but it could be repurposed in near future; untill then it is merely a fun character generator. 
 
 
-Demo:
-(screenshots here)
+## features:
+- .json data format usage 
+- a vastly rich lists of japanese first  and second names
+- all the cursed techniques from manga series
+- a relative ease of use
+- repurposability. with little amount of rewriting can be turned into the fictional character generator for your own stories, games, world settings etc. 
 
-Installation:
-### download the folder of a project or run the command `git clone <url of project>` to clone it on ur pc.
 
-usage: 
-#### 1) run the main.py  file in your environment of choice (either ur favourite terminal emulator via python3 or some DE); 2)an app will automatically update the data folder with students.json file, where all the generated data would resign; 3)done! you can either take the inspiration from this and use it as an OC creator for your needs, train your data analysis skills, or just giggle a bit while reading the stuff that this app generated. 
-(note): this project might become an OC generator and be non-related only to JJK 
-manga
+# requirements:
+- python v3.14.4 or higher  
+- terminal emulator of your choice
+- preferably linux environment (optional, because can run on Windows, though this possibility remains untested yet)
 
-features:
-#### - a vastly rich lists of japanese first (both male and female) and second names -  the randomized data would be really random; 
-#### - all the cursed techniques from series (as already mentioned)
-#### - json file usage (some ppl may prefer it over a csv files with this kind of data)
-#### - a relative ease of use
 
-licence: 
-##### use it however you like, but if you want to develop upon my project, let me know by sending me an email: ijohan1@proton.me or just mention me in your project you use it for.
+# Installation:
+clone this repository using git:
+```git clone https://github.com/ijohan1/JujutsuRandomizer```
 
-credits:
-###### me obviously, and Gege Akutami as a creator of Jujutsu Kaisen.
 
+# usage: 
+1) run the main.py file.
+2) an app will automatically create & update the data folder with students.json file, where all the generated data would resign
+3) open the students.json file from the folder
+4) done! you can either take the inspiration from this and use it as a character creator for your needs, train your data analysis skills, or just giggle a bit while reading the stuff that this app generated. 
+
+
+# screenshots:
+<img width="559" height="568" alt="puasson" src="https://github.com/user-attachments/assets/da1155cb-449f-4a68-8cf8-206ff0702cdd" />
