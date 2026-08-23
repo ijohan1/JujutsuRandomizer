@@ -14,7 +14,6 @@ this application is random .json data generator based on Jujutsu Kaisen manga se
 
 # requirements:
 - python v3.14.4 or higher  
-- terminal emulator of your choice
 - preferably linux environment (optional, because can run on Windows, though this possibility remains untested yet)
 
 
