@@ -1,3 +1,5 @@
+[Ukrainian version](https://github.com/ijohan1/JujutsuRandomizer/main/README_ua.md)
+
 # Jujutsu Randomizer: forge your own sorcerer.
 
 # quick intro:
